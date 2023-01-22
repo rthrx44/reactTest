@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+import JNL from './JNL.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={JNL} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Jimmy Neutron Logo
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://jimmyneutron.fandom.com/wiki/Jimmy_Neutron"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn More About Jimmy Neutron
         </a>
       </header>
     </div>
